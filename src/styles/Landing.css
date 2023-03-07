@@ -16,7 +16,7 @@
 
 .title {
     font-family: 'Golos Text', sans-serif;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 400;
     color: #000;
     text-align: center;
@@ -28,7 +28,7 @@
 .description {
     font-family: 'Golos Text', sans-serif;
     line-height: 2;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 600;
     color: #000;
     text-align: center;
